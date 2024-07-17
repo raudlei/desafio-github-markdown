@@ -2,17 +2,21 @@
 
 Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta de tecnologia e programação, sempre buscando aprender e compartilhar conhecimento.
 
-## 🌱 Meus Interesses
+## 🌱 Meus Interesses:
 
 * 💻 Desenvolvimento Web 
-* 🐍 Python (Back-end, Automação)
+* 🐍 Python 
 * 🤖 Inteligência Artificial
 * 🚀 Tecnologias Open Source
 * 🌐 Segurança da Informação
 
-## 💼 Experiência Profissional
 
-* **[Analista de Tecnologia da Informação]** na **[Polícia Civil de Minas Gerais]** 
+
+## 💼 Experiência Profissional:
+
+* **[Analista de Tecnologia da Informação]** na **[Polícia Civil de Minas Gerais]**  desde 2023
+=======
+
 
 ## 📫 Contato
 
