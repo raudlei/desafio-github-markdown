@@ -1,6 +1,5 @@
 # Olá, sou o Raudlei 👋
 
-
 Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta de tecnologia e programação, sempre buscando aprender e compartilhar conhecimento.
 
 ## 🌱 Meus Interesses
@@ -11,8 +10,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta de tecnologia e programa
 * 🚀 Tecnologias Open Source
 * 🌐 Segurança da Informação
 
-
-
 ## 💼 Experiência Profissional
 
 * **[Analista de Tecnologia da Informação]** na **[Polícia Civil de Minas Gerais]** 
@@ -21,7 +18,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta de tecnologia e programa
 
 * **GitHub:** @raudlei
 * **Email:** [raudlei@live.com]
-
 
 ## 🤝 Vamos Colaborar!
 
