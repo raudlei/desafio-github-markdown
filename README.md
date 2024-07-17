@@ -11,9 +11,12 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta de tecnologia e programa
 * 🌐 Segurança da Informação
 
 
+
 ## 💼 Experiência Profissional:
 
 * **[Analista de Tecnologia da Informação]** na **[Polícia Civil de Minas Gerais]**  desde 2023
+=======
+
 
 ## 📫 Contato
 
