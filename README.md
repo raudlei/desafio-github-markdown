@@ -27,4 +27,4 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta de tecnologia e programa
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma ideia de projeto ou quiser trocar conhecimentos. 
 
-Obrigado por visitar meu perfil! 😊
+Obrigado por visitar meu perfil! 
